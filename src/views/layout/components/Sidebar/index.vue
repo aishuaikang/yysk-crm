@@ -58,7 +58,7 @@
       <div class="sidebar-bottom-content">
         <div v-if="!collapse" class="copyright">
           <!-- <img src="/favicon.ico" width="20px" > -->
-          <!-- <span>Power by 恒河制药</span> -->
+          <!-- <span>Power by 恒和制药</span> -->
         </div>
         <img
           :style="{ 'right': buttonCollapse ? '3px' : '0' }"

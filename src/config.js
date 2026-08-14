@@ -7,7 +7,7 @@ const getLocationOrigin = () => {
   )
 }
 
-const companyName = '恒河制药CRM'
+const companyName = '恒和制药CRM'
 const version = 'V11.3.3'
 const baiduKey = '百度key'
 

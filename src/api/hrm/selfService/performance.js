@@ -1,6 +1,6 @@
 /*
- * @Description: 恒河制药软件
- * @Author: 恒河制药
+ * @Description: 恒和制药软件
+ * @Author: 恒和制药
  * @LastEditors: yang
  */
 import request from '@/utils/request'

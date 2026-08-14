@@ -94,7 +94,7 @@ export function updateProgressAPI() {
 }
 
 /**
- * 登录恒河制药CRM
+ * 登录恒和制药CRM
  * @param {*} data
  */
 export function loginWKAPI(data) {

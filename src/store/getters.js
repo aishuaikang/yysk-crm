@@ -26,7 +26,7 @@ const getters = {
     if (state.app.name) {
       return state.app.name
     }
-    return '恒河制药CRM'
+    return '恒和制药CRM'
   },
   collapse: (state) => state.app.sidebar.collapse,
   activeIndex: (state) => state.app.sidebar.activeIndex,

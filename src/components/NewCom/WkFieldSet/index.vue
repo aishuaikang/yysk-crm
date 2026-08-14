@@ -1,13 +1,13 @@
 <!--
- * @Description: 恒河制药软件
- * @Author: 恒河制药
+ * @Description: 恒和制药软件
+ * @Author: 恒和制药
  * @Date: 2020-06-03 20:50:42
  * @LastEditTime: 2020-06-03 21:25:50
  * @LastEditors: yang
 -->
 <!--
- * @Description: 恒河制药软件
- * @Author: 恒河制药
+ * @Description: 恒和制药软件
+ * @Author: 恒和制药
  * @Date: 2020-06-03 20:32:18
  * @LastEditTime: 2020-06-03 20:49:11
  * @LastEditors: yang

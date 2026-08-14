@@ -6,7 +6,7 @@
       class="logo"
       @click="enterMainPage" >
     <!-- <div class="logo">
-      <span class="logo-text">恒河制药CRM</span>
+      <span class="logo-text">恒和制药CRM</span>
     </div> -->
     <div class="nav-items-container">
       <el-menu

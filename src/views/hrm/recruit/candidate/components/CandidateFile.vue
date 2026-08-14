@@ -1,6 +1,6 @@
 <!--
- * @Description: 恒河制药软件
- * @Author: 恒河制药
+ * @Description: 恒和制药软件
+ * @Author: 恒和制药
  * @Date: 2020-06-08 20:12:32
  * @LastEditTime: 2020-06-08 20:49:11
  * @LastEditors: yang
