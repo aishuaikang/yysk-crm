@@ -383,7 +383,7 @@ export default {
       const hiddenItems = []
       for (let index = 0; index < this.items.length; index++) {
         const element = this.items[index]
-        if (clintWidth - 496 - (index + 1) * 130 > 0) {
+        if (clintWidth - 520 - (index + 1) * 130 > 0) {
           showItems.push(element)
         } else {
           hiddenItems.push(element)
@@ -599,8 +599,8 @@ export default {
   position: relative;
   padding: 0 15px;
   .logo {
-    width: 196px;
-    height: 40px;
+    width: 220px;
+    height: 45px;
     object-fit: contain;
     object-position: left center;
     display: block;

@@ -82,8 +82,8 @@ export default {
   padding: 0 60px 0 15px;
   background-color: white;
   .logo {
-    width: 196px;
-    height: 40px;
+    width: 220px;
+    height: 45px;
     object-fit: contain;
     object-position: left center;
     display: block;
